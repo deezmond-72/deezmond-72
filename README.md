@@ -1,4 +1,8 @@
-## Hi there 👋
+## - Desmond
+## - He/Him
+## - Learning Python
+## - I love my cats
+
 
 <!--
 **deezmond-72/deezmond-72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
